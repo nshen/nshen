@@ -11,15 +11,6 @@
   - [ogl-typescript](https://github.com/nshen/ogl-typescript) : 极简的`WebGL` 3D框架 `TypeScript` 版本
   - [mini-shed](https://github.com/nshen/mini-shed) : 数据驱动的小游戏框架，迟早会把ogl-typescript整合进来
 
-🌱 比较看好并在学习的技术：
-
-  - [React.js](https://reactjs.org/)
-  - [Node.js](https://nodejs.org/)
-  - [Docker](https://www.docker.com/)
-  - [Deno](https://deno.land/)
-  - [Rust](https://www.rust-lang.org/)
-
-
 🤔 已逃离北上广6年多，无稳定工作，寻求发展中。
 
 📫 找我聊聊:
