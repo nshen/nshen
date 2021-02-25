@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
 [![](https://img.shields.io/badge/weibo-@nshen121-lightgrey.svg)](https://weibo.com/nshen121)
 
-👋 欢迎访问我的博客  [ Nshen.net](https://nshen.net/)
+👋 欢迎访问我的博客  [ Nshen.net](https://nshen.net/)。
 
-🤔 已逃离北上多年，目前在[百分点](https://www.percent.cn/)沈阳分公司做前端开发
+🤔 已逃离北上多年，目前在 [百分点](https://www.percent.cn/) 沈阳分公司做前端开发。
 
-📫 找我聊聊:
+📫 找我聊聊：
 
 - 💬 微信：nshen121
 - 💬 QQ: 5836211
