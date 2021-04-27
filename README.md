@@ -1,5 +1,5 @@
 
-你好！我是一个非科班全自学程序员✨，曾做 `⚡Flash developer` 有10多个年头，目前兴趣在 `游戏开发` + `Web 全栈` 领域。
+你好！我是一个非科班全自学程序员✨，曾做 `⚡Flash 开发者`  有10多个年头，目前兴趣在 `游戏开发` + `Web 全栈` ，求发展。
 
 [![GitHub followers](https://img.shields.io/github/followers/nshen?label=Follow%20me%EF%BC%81&style=social)](https://github.com/nshen/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
@@ -18,6 +18,10 @@
 | [`vite-plugin-cesium`](https://github.com/nshen/vite-plugin-cesium) | [![npm](https://img.shields.io/npm/v/vite-plugin-cesium.svg)](https://www.npmjs.com/package/vite-plugin-cesium)  | ⚡ A Vite plugin help you set up a Cesium project in Vite.                          |
 | [`narrowing`](https://github.com/nshen/narrowing)                   | [![npm](https://img.shields.io/npm/v/narrowing.svg)](https://www.npmjs.com/package/narrowing)                    | 🤖 Tiny TypeScript narrowing helpers you better use.                                |
 | [`ogl-typescript`](https://github.com/nshen/ogl-typescript)         | [![npm](https://img.shields.io/npm/v/ogl-typescript.svg)](https://www.npmjs.com/package/ogl-typescript)          | 🔺 TypeScript port of OGL Minimal WebGL library                                     |
+
+💢  战斗力提升中
+
+[![Nshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 找我聊聊：
 
