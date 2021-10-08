@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/nshen?label=Follow%20me%EF%BC%81&style=social)](https://github.com/nshen/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
-[![WeiBo](https://img.shields.io/badge/weibo-@nshen121-lightgrey.svg)](https://weibo.com/nshen121)
 [![visitors](https://page-views.glitch.me/badge?page_id=nshen.nshen)](https://github.com/nshen/nshen)
 
 👋 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
