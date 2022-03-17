@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
 [![visitors](https://page-views.glitch.me/badge?page_id=nshen.nshen)](https://github.com/nshen/nshen)
 
-🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277) 正在6折预售中，感谢支持 🤞。
+🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 正在 6 折预售中，感谢支持 🤞。
 
 👋 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
 
