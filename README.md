@@ -8,7 +8,7 @@
 
 👋 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
 
-🤔 已逃离北上多年，目前入职 Compass 做远程开发。
+🤔 已逃离北上多年，目前入职 @UrbanCompass 做远程开发。
 
 💖 下边是我发布的 `npm` 包。
 
