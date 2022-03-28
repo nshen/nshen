@@ -1,14 +1,15 @@
 你好！我是一个非科班全自学程序员 ✨，曾做 `⚡Flash 开发者` 有 10 多个年头，目前兴趣在 `游戏开发` + `Web 全栈` 。
 
+[![zhihu](https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-blue?)](https://www.zhihu.com/people/nshen121)
 [![GitHub followers](https://img.shields.io/github/followers/nshen?label=Follow%20me%EF%BC%81&style=social)](https://github.com/nshen/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
 [![visitors](https://page-views.glitch.me/badge?page_id=nshen.nshen)](https://github.com/nshen/nshen)
 
-🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 正在 6 折预售中，感谢支持 🤞。
+🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 预售中，加微信可获 **7折** 付款码，感谢支持 🤞。
 
 👋 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
 
-🤔 已逃离北上多年，目前入职 @UrbanCompass 做远程开发。
+🤔 已逃离北上多年，目前入职 [@UrbanCompass](https://github.com/UrbanCompass) 做远程开发。
 
 💖 下边是我发布的 `npm` 包。
 
