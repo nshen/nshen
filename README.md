@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
 [![visitors](https://page-views.glitch.me/badge?page_id=nshen.nshen)](https://github.com/nshen/nshen)
 
-🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 预售中，加微信可获 **7折** 付款码，感谢支持 🤞。
+🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 发售中，加微信可获 **7折** 付款码，感谢支持 🤞。
 
 👋 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
 
@@ -23,7 +23,7 @@
 
 💢 战斗力提升中
 
-[![Nshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshen&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Nshen's GitHub stats](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 找我聊聊：
 
