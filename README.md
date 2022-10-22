@@ -23,7 +23,7 @@
 
 💢 战斗力提升中
 
-[![Nshen's GitHub stats](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Nshen's GitHub stats](https://github-readme-stats-nshen.vercel.app/api?username=nshen&count_private=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 找我聊聊：
 
