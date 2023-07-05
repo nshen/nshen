@@ -2,16 +2,12 @@
 
 Currently, I am interested in `full-stack web development` and `game development`.
 
-🤔 After working in Beijing and Shanghai for many years, I returned to my hometown and spent a year working as a full-time remote developer for [@UrbanCompass](https://github.com/UrbanCompass). Currently, I am seeking new opportunities for remote work.
+🤔 After working in Beijing and Shanghai for many years, I returned to my hometown and started my full-time remote life at [@UrbanCompass](https://github.com/UrbanCompass) -> [@RSS3](https://github.com/NaturalSelectionLabs) -> [@connect3world](https://github.com/connect3world)
 
 [![GitHub followers](https://img.shields.io/github/followers/nshen?label=Follow%20me%EF%BC%81&style=social)](https://github.com/nshen/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nshen121?style=social)](https://twitter.com/nshen121)
 [![zhihu](https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-blue?)](https://www.zhihu.com/people/nshen121)
 [![visitors](https://page-views.glitch.me/badge?page_id=nshen.nshen)](https://github.com/nshen/nshen)
-
-
-
- 
 
 
 💖 Below is a list of npm packages I have published
