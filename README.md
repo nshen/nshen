@@ -18,7 +18,9 @@ Currently, I am interested in `full-stack web development` and `game development
 | [`narrowing`](https://github.com/nshen/narrowing)                         | [![npm](https://img.shields.io/npm/v/narrowing.svg)](https://www.npmjs.com/package/narrowing)                         | [![npm](https://img.shields.io/npm/dt/narrowing)](https://www.npmjs.com/package/narrowing)                         | 🤖 Tiny TypeScript narrowing helpers you better use.       |
 | [`ogl-typescript`](https://github.com/nshen/ogl-typescript)               | [![npm](https://img.shields.io/npm/v/ogl-typescript.svg)](https://www.npmjs.com/package/ogl-typescript)               | [![npm](https://img.shields.io/npm/dt/ogl-typescript)](https://www.npmjs.com/package/ogl-typescript)               | 🔺 TypeScript port of OGL Minimal WebGL library.           |
 
-🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 发售中，加微信可获 **7折** 付款码，感谢支持 🤞。
+我是 Neovim 的粉丝，欢迎试用并 Folk 我的配置 [InsisVim](https://github.com/nshen/InsisVim) ，如果你想了解内部实现细节，请看下边 👇
+
+🎉🎉🎉 我的掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0) 发售中，Github 专属 **7折** 付款码 `LZy9QUOg`，感谢支持 🤞。
 
 欢迎访问我的博客 [ Nshen.net](https://nshen.net/)。
 
