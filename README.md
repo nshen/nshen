@@ -26,7 +26,7 @@ Currently, I am interested in `full-stack web development` and `game development
 
 💢 Improving
 
-[![Nshen's GitHub stats](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true&rand=123)](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true)
+[![Nshen's GitHub stats](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true&rand=456)](https://github-readme-stats-smoky-seven.vercel.app/api?username=nshen&count_private=true)
 
 📫 Talk to me：
 
