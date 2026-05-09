@@ -14,6 +14,8 @@ My blog: [ Nshen.net](https://nshen.net/) and I just start my [Youtube](https://
 - 📚 [nn-stack](https://github.com/nshen/nn-stack) - an opinionated Full Stack Starter Kit built for Cloudflare's Edge Network.
 - 🖥️ [InsisVim](https://github.com/nshen/InsisVim) - out-of-the-box Neovim IDE solution that setup development environment in an incredibly simple way.
 - 👉 [Instagen.click](https://instagen.click) - ai image instant generation. Pay Per Use. No Sign-up.
+- 👨‍💻 [Martin-dev](https://martin.nshen.net/) - your full-chain dev teammate
+- 👾 [Pet World](https://pets.nshen.net) - A multiplayer web game about codex pet 
   
 ## Legacy works 
 - 🤞 掘金小册 [《Neovim 配置实战：从 0 到 1 打造自己的 IDE》](https://juejin.cn/book/7051157342770954277?scrollMenuIndex=0)
